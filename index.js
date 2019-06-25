@@ -9,8 +9,8 @@ var topic = "space";
 var conversation = `${topic}`;
 
 function greeting() {
-  var greeting = "Hello, everybody!";
-  return greeting
+  var greet = "Hello, everybody!";
+  return greet
 }
 
 console.log(greeting())
