@@ -6,10 +6,4 @@ var greetSpecialGuest = "Hello" + specialGuest + "!";
 
 var topic = "space";
 
-var conversation = `${topic}`;
-
-// function greeting1() {
-//   return greeting
-// }
-
-// console.log(greeting1())
+var conversation = `Let's talk about ${topic}.`;
