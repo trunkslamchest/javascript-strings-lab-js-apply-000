@@ -8,8 +8,8 @@ var topic = "space";
 
 var conversation = `${topic}`;
 
-function greeting1() {
-  return greeting
-}
+// function greeting1() {
+//   return greeting
+// }
 
-console.log(greeting1())
+// console.log(greeting1())
